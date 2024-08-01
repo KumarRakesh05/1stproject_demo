@@ -1,2 +1,3 @@
-# 1stproject_demo
-This is my first repository
+# Java Script Projects
+Weather App
+Stopwatch
