@@ -1,3 +1,4 @@
 # Java Script Projects
-Weather App
+Weather App<br>
+
 Stopwatch
